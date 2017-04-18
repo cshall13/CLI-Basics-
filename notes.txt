@@ -1,0 +1,8 @@
+
+Git add all the files.
+Commit them with a message "Init commit of CLI Basics."
+Create a new repository on GitHub called "CLI Basics."
+Add the remote to your local.
+Push your code.
+
+rmdir means to remove directory
